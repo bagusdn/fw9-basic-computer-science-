@@ -1,0 +1,6 @@
+start
+definisikan nilai x
+jika x%2 sama dengan 0
+cetak x adalah bilangan genap
+jika tidak x adalah bilangan ganjil
+end 

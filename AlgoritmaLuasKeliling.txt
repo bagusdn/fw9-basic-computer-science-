@@ -1,0 +1,11 @@
+start
+definisikan nilai r (jarijari)
+masukkan r kedalam rumus luas lingkaran
+jika nilai r kelipatan 7 maka gunkana pi 22/7 jika tidak gunakan 3,14
+hitung nilai luas
+cetak nilai luas lingkaran
+masukkan r kedalam rumus keliling lingkaran
+jika nilai r kelipatan 7 maka gunkana pi 22/7 jika tidak gunakan 3,14
+hitung nilai keliling
+cetak nilai keliling lingkaran
+end

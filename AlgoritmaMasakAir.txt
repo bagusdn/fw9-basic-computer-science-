@@ -1,0 +1,9 @@
+start
+mengambil panci
+memasukkan air kedalam panci hingga penuh
+nyalakan api kompor
+letakkan panci berisi air diatas api kompor
+tunggu hingga mendidih
+matikan api kompor
+end 
+

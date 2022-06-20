@@ -1,0 +1,7 @@
+start
+definisikan nilai x dan nilai y
+jika x > y bernilai benar
+cetak x lebih besar daripada y
+jika tidak maka cetak y lebig besar daripada x
+end
+

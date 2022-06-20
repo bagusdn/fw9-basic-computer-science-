@@ -1,0 +1,8 @@
+start
+ambil gelas c
+tuangkan isi gelas a (teh) ke gelas c
+cuci gelas a
+tuangkan isi gelas b (kopi) ke gelas a
+cuci gelas b
+tuangkan isi gelas c ke gelas b
+end

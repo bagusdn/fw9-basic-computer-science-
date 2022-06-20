@@ -1,0 +1,21 @@
+
+Deskriptif
+menhitung luas segitiga
+
+start
+memasukkan nilai alas 
+memasukkan nilai tinggi 
+masukkan rumus luas segitiga yaitu alas dikali tinggi /2
+cetak luas segitiga
+end
+
+pseudo
+menghitung luas seegitiga
+
+start
+var alas,tinggi,luas
+alas = 3
+tinggi = 4
+luas = alas*tinggi/2
+print(luas)
+end

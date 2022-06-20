@@ -1,0 +1,10 @@
+start
+meregangkan badan
+cek hape
+bangun dari tempat tidur
+bereskan tempat tidur
+bersihkan pasir kucing 
+kasih makan kucing
+sarapan 
+mandi
+end
